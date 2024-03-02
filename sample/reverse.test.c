@@ -1,4 +1,4 @@
-#include "../picotest.h"
+#include <picotest/picotest.h>
 #include <stdlib.h>
 
 static void reverse(int *arr, int len)

@@ -1,4 +1,4 @@
-#include "../picotest.h"
+#include <picotest/picotest.h>
 
 static int len(const char *s)
 {
